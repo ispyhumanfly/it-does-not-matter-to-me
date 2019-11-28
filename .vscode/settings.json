@@ -1,1 +1,27 @@
-{"python.pythonPath": "python"}
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "git.enableSmartCommit": true,
+  "[jsonc]": {},
+  "git.autofetch": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "explorer.confirmDelete": false,
+  "npm.autoDetect": "on",
+  "nativescript.analytics.enabled": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.autoIndent": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Solarized Dark",
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "todo-tree.highlights.enabled": true,
+  "[python]": {},
+  "editor.suggestSelection": "recentlyUsed",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "sonarlint.rules": {
+    "python:S1110": {
+      "level": "off"
+    }
+  }
+}

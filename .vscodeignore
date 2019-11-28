@@ -1,0 +1,6 @@
+.vscode
+node_modules
+.pylintrc
+.gitignore
+.markdownlint.json
+!node_modules/markdownlint/schema/markdownlint-config-schema.json
