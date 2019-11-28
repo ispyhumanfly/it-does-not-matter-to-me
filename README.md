@@ -2,16 +2,12 @@
 
 An exploration in learning Python, cloud automations and architecture, while having a little fun too.
 
-## Setup
+### OS
 
+    brew install aws-sam-cli
+
+### Python
     pip install -r requirements.txt
-
-## Directory Structure
-
-```
-
-
-```
 
 # Issues
 
@@ -19,6 +15,10 @@ An exploration in learning Python, cloud automations and architecture, while hav
 
 ### Things to Learn
 
+- Read about AWS SAM 
+We also use AWS CDK exlorer
+
+    brew install aws-sam-cli
 # Tools to learn
 
 - Vi
